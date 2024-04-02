@@ -14,10 +14,12 @@ https://create.kahoot.it/share/quiz-arquitetura-de-computadores/b65284bd-ac10-4d
 
 # Alunos:
 
-Daniel Lacerda Melo | Github: https://github.com/DLacerdadev ,
+Daniel Lacerda Melo | Github: https://github.com/DLacerdadev,
 
 Luan Masao Hirahata | Github: https://github.com/MasaoLH,
 
 Karine Costa Silva | Github: https://github.com/karinecsilva,
 
 Everaldo Santiago | Github: http://github.com/adersan,
+
+Arthur | Github: https://github.com/Dakorte,
