@@ -22,4 +22,4 @@ Karine Costa Silva | Github: https://github.com/karinecsilva,
 
 Everaldo Santiago | Github: http://github.com/adersan,
 
-Arthur | Github: https://github.com/Dakorte,
+Arthur Miranda | Github: https://github.com/Dakorte,
