@@ -23,3 +23,5 @@ Karine Costa Silva | Github: https://github.com/karinecsilva,
 Everaldo Santiago | Github: http://github.com/adersan,
 
 Arthur Miranda | Github: https://github.com/Dakorte,
+
+Camila Lacerda | Github: https://github.com/camilalacerdab
