@@ -22,7 +22,7 @@ Luan Masao Hirahata | Github: https://github.com/MasaoLH,
 
 Karine Costa Silva | Github: https://github.com/karinecsilva,
 
-Everaldo Santiago | Github: http://github.com/adersan,
+Aderval Santiago | Github: http://github.com/adersan,
 
 Arthur Miranda | Github: https://github.com/Dakorte,
 
